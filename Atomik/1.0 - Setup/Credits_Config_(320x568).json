@@ -1,0 +1,11 @@
+{
+    "scene-title": "Credits_Title",
+    "scene-image": "Menu_Scene",
+    "scene-music": "Menu_Scene.mp3",
+    "scene-title-x": "160",
+    "scene-title-y": "500",
+    "panel-title-x": "160",
+    "panel-title-y": "294",
+    "touch-title-x": "160",
+    "touch-title-y": "90"
+}

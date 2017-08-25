@@ -1,0 +1,20 @@
+{
+    "title": "5 Star!",
+    "background": "BG_001",
+    "pipeline": "S1_L2",
+    "scoreboard": "CP_001",
+    "music": "DST Echorex",
+    "duration": "60",
+    "lives": "5",
+    "target": "85.00",
+    "sinkholes": [
+        {"id":"1", "x":"160", "y":"326"},
+        {"id":"2", "x":"60", "y":"236"},
+        {"id":"3", "x":"260", "y":"236"},
+        {"id":"4", "x":"100", "y":"126"},
+        {"id":"5", "x":"220", "y":"126"}
+    ],
+    "spawnpods": [
+        {"id":"1", "type":"spawn", "x":"160", "y":"444", "direction":"3", "visible":"0", "delay":"0.50", "speed":"3.2", "state":"1"}
+    ]
+}

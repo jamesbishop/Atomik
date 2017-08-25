@@ -1,0 +1,23 @@
+{
+    "title": "Three Way!",
+    "background": "BG_001",
+    "pipeline": "S2_L5",
+    "scoreboard": "CP_001",
+    "music": "DST Echorex",
+    "duration": "60",
+    "lives": "3",
+    "target": "90.00",
+    "sinkholes": [
+        {"id":"1", "x":"048", "y":"180"},
+        {"id":"2", "x":"172", "y":"215"},
+        {"id":"3", "x":"278", "y":"250"}
+    ],
+    "spawnpods": [
+        {"id":"1", "type":"spawn", "x":"068", "y":"289", "direction":"2", "visible":"0", "delay":"2.00", "speed":"1.30", "state":"1"},
+        {"id":"2", "type":"spawn", "x":"048", "y":"269", "direction":"3", "visible":"0", "delay":"2.00", "speed":"1.30", "state":"1"},
+        {"id":"3", "type":"spawn", "x":"048", "y":"091", "direction":"1", "visible":"0", "delay":"2.30", "speed":"1.30", "state":"1"},
+        {"id":"4", "type":"spawn", "x":"172", "y":"426", "direction":"3", "visible":"0", "delay":"2.30", "speed":"1.30", "state":"1"},
+        {"id":"5", "type":"spawn", "x":"278", "y":"385", "direction":"3", "visible":"0", "delay":"2.00", "speed":"1.00", "state":"1"},
+        {"id":"6", "type":"spawn", "x":"278", "y":"115", "direction":"1", "visible":"0", "delay":"2.00", "speed":"1.00", "state":"1"}
+    ]
+}

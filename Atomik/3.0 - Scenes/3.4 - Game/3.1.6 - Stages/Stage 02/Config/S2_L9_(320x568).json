@@ -1,0 +1,25 @@
+{
+    "title": "Chaos Theory",
+    "background": "BG_001",
+    "pipeline": "S2_L9",
+    "scoreboard": "CP_001",
+    "music": "DST Echorex",
+    "duration": "60",
+    "lives": "5",
+    "target": "90.00",
+    "sinkholes": [
+        {"id":"1", "x":"159", "y":"468"},
+        {"id":"2", "x":"048", "y":"216"},
+        {"id":"3", "x":"270", "y":"216"},
+        {"id":"4", "x":"159", "y":"138"}
+    ],
+    "spawnpods": [
+        {"id":"1", "type":"spawn", "x":"068", "y":"465", "direction":"2", "visible":"0", "delay":"2.00", "speed":"1.20", "state":"1"},
+        {"id":"2", "type":"spawn", "x":"252", "y":"465", "direction":"4", "visible":"0", "delay":"2.00", "speed":"1.25", "state":"1"},
+        {"id":"3", "type":"spawn", "x":"159", "y":"216", "direction":"4", "visible":"0", "delay":"2.50", "speed":"1.00", "state":"1"},
+        {"id":"4", "type":"spawn", "x":"159", "y":"216", "direction":"2", "visible":"0", "delay":"2.50", "speed":"1.00", "state":"1"},
+        {"id":"5", "type":"spawn", "x":"048", "y":"088", "direction":"1", "visible":"0", "delay":"2.00", "speed":"2.00", "state":"1"},
+        {"id":"6", "type":"spawn", "x":"270", "y":"088", "direction":"1", "visible":"0", "delay":"2.00", "speed":"2.00", "state":"1"},
+        {"id":"7", "type":"steam", "x":"159", "y":"066", "direction":"1", "visible":"1", "delay":"4.00", "speed":"4.80", "state":"0"}
+    ]
+}

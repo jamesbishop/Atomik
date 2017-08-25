@@ -1,0 +1,24 @@
+{
+    "title": "Confusion",
+    "background": "BG_001",
+    "pipeline": "S3_L3",
+    "scoreboard": "CP_001",
+    "music": "DST Collidescope",
+    "duration": "60",
+    "lives": "5",
+    "target": "90.00",
+    "sinkholes": [
+        {"id":"1", "x":"045", "y":"180"},
+        {"id":"2", "x":"160", "y":"344"},
+        {"id":"3", "x":"277", "y":"160"},
+        {"id":"4", "x":"277", "y":"235"}
+    ],
+    "spawnpods": [
+        {"id":"1", "type":"spawn", "x":"033", "y":"264", "direction":"3", "visible":"0", "delay":"2.00", "speed":"1.50", "state":"1"},
+        {"id":"2", "type":"spawn", "x":"278", "y":"312", "direction":"3", "visible":"0", "delay":"1.60", "speed":"1.05", "state":"1"},
+        {"id":"3", "type":"spawn", "x":"139", "y":"180", "direction":"4", "visible":"0", "delay":"1.95", "speed":"1.00", "state":"1"},
+        {"id":"4", "type":"spawn", "x":"160", "y":"200", "direction":"1", "visible":"0", "delay":"2.55", "speed":"2.00", "state":"1"},
+        {"id":"5", "type":"spawn", "x":"179", "y":"180", "direction":"2", "visible":"0", "delay":"1.75", "speed":"1.00", "state":"1"},
+        {"id":"6", "type":"steam", "x":"157", "y":"452", "direction":"3", "visible":"1", "delay":"7.00", "speed":"1.00", "state":"0"}
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "device": "%@",
+    "platform": "%@",
+    "width": "%d",
+    "height": "%d",
+    "retina": "%d",
+    "lite": "%d"
+}

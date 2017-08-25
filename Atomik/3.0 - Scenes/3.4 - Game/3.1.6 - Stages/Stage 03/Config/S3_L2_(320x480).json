@@ -1,0 +1,21 @@
+{
+    "title": "Crossroads",
+    "background": "BG_001",
+    "pipeline": "S3_L2",
+    "scoreboard": "CP_001",
+    "music": "DST Collidescope",
+    "duration": "60",
+    "lives": "3",
+    "target": "90.00",
+    "sinkholes": [
+        {"id":"1", "x":"048", "y":"372"},
+        {"id":"2", "x":"180", "y":"388"},
+        {"id":"3", "x":"044", "y":"224"}
+    ],
+    "spawnpods": [
+        {"id":"1", "type":"spawn", "x":"048", "y":"432", "direction":"3", "visible":"0", "delay":"1.20", "speed":"1.30", "state":"1"},
+        {"id":"2", "type":"spawn", "x":"145", "y":"226", "direction":"4", "visible":"0", "delay":"1.20", "speed":"1.05", "state":"1"},
+        {"id":"3", "type":"spawn", "x":"044", "y":"131", "direction":"1", "visible":"0", "delay":"1.95", "speed":"1.00", "state":"1"},
+        {"id":"4", "type":"steam", "x":"122", "y":"450", "direction":"3", "visible":"1", "delay":"3.00", "speed":"2.00", "state":"0"}
+    ]
+}

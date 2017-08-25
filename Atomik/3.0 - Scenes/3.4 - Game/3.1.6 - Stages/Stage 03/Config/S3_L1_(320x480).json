@@ -1,0 +1,25 @@
+{
+    "title": "The Pipe Tree",
+    "background": "BG_001",
+    "pipeline": "S3_L1",
+    "scoreboard": "CP_001",
+    "music": "DST Echorex",
+    "duration": "60",
+    "lives": "5",
+    "target": "90.00",
+    "sinkholes": [
+        {"id":"1", "x":"054", "y":"330"},
+        {"id":"2", "x":"272", "y":"330"},
+        {"id":"3", "x":"054", "y":"099"},
+        {"id":"4", "x":"272", "y":"099"}
+    ],
+    "spawnpods": [
+        {"id":"1", "type":"spawn", "x":"056", "y":"409", "direction":"3", "visible":"0", "delay":"2.00", "speed":"2.20", "state":"1"},
+        {"id":"2", "type":"spawn", "x":"270", "y":"409", "direction":"3", "visible":"0", "delay":"2.00", "speed":"2.25", "state":"1"},
+        {"id":"3", "type":"spawn", "x":"056", "y":"225", "direction":"3", "visible":"0", "delay":"2.00", "speed":"2.00", "state":"1"},
+        {"id":"4", "type":"spawn", "x":"270", "y":"225", "direction":"3", "visible":"0", "delay":"2.00", "speed":"2.00", "state":"1"},
+        {"id":"5", "type":"spawn", "x":"140", "y":"100", "direction":"4", "visible":"0", "delay":"2.00", "speed":"1.00", "state":"1"},
+        {"id":"6", "type":"spawn", "x":"185", "y":"100", "direction":"2", "visible":"0", "delay":"2.00", "speed":"2.00", "state":"1"},
+        {"id":"7", "type":"steam", "x":"165", "y":"332", "direction":"2", "visible":"1", "delay":"7.00", "speed":"1.50", "state":"0"}
+    ]
+}

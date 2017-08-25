@@ -1,0 +1,69 @@
+{
+    "scene-title": "Score_Title",
+    "scene-image": "Score_Scene",
+    "scene-music": "Menu_Scene.mp3",
+    "scene-title-x": "160",
+    "scene-title-y": "465",
+    "details": [
+        {
+            "id": "title",
+            "x": "125",
+            "y": "433"
+        },
+        {
+            "id": "levels",
+            "x": "125",
+            "y": "401"
+        },
+        {
+            "id": "stats",
+            "x": "125",
+            "y": "368"
+        },
+        {
+            "id": "timer",
+            "x": "125",
+            "y": "327"
+        },
+        {
+            "id": "music",
+            "x": "125",
+            "y": "292"
+        },
+        {
+            "id": "lives",
+            "x": "125",
+            "y": "260"
+        },
+        {
+            "id": "score",
+            "x": "125",
+            "y": "230"
+        },
+        {
+            "id": "target",
+            "x": "125",
+            "y": "185"
+        },
+        {
+            "id": "percentage",
+            "x": "125",
+            "y": "152"
+        },
+        {
+            "id": "icon",
+            "x": "260",
+            "y": "165"
+        },
+        {
+            "id": "progress",
+            "x": "160",
+            "y": "105"
+        },
+        {
+            "id": "touch",
+            "x": "160",
+            "y": "57"
+        }
+    ]
+}

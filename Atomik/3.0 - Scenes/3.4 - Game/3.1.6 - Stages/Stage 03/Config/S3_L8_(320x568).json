@@ -1,0 +1,22 @@
+{
+    "title": "Penultimatum",
+    "background": "BG_001",
+    "pipeline": "S3_L8",
+    "scoreboard": "CP_001",
+    "music": "DST Home",
+    "duration": "60",
+    "lives": "5",
+    "target": "90.00",
+    "sinkholes": [
+        {"id":"1", "x":"032", "y":"258"},
+        {"id":"2", "x":"130", "y":"368"},
+        {"id":"3", "x":"140", "y":"278"},
+        {"id":"4", "x":"210", "y":"173"}
+    ],
+    "spawnpods": [
+        {"id":"1", "type":"spawn", "x":"154", "y":"475", "direction":"3", "visible":"0", "delay":"1.50", "speed":"1.90", "state":"1"},
+        {"id":"2", "type":"spawn", "x":"210", "y":"380", "direction":"3", "visible":"0", "delay":"1.25", "speed":"1.70", "state":"1"},
+        {"id":"3", "type":"spawn", "x":"032", "y":"072", "direction":"1", "visible":"0", "delay":"1.30", "speed":"2.80", "state":"1"},
+        {"id":"4", "type":"spawn", "x":"094", "y":"156", "direction":"1", "visible":"0", "delay":"1.70", "speed":"2.30", "state":"1"}
+    ]
+}

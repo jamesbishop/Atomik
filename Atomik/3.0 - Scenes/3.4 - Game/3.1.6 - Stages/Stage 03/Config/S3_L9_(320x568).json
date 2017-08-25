@@ -1,0 +1,27 @@
+{
+    "title": "The Ultimatum",
+    "background": "BG_001",
+    "pipeline": "S3_L9",
+    "scoreboard": "CP_001",
+    "music": "What To Build",
+    "duration": "60",
+    "lives": "5",
+    "target": "90.00",
+    "sinkholes": [
+        {"id":"1", "x":"155", "y":"454"},
+        {"id":"2", "x":"250", "y":"275"},
+        {"id":"3", "x":"055", "y":"138"},
+        {"id":"4", "x":"272", "y":"121"}
+    ],
+    "spawnpods": [
+        {"id":"1", "type":"spawn", "x":"062", "y":"472", "direction":"2", "visible":"0", "delay":"2.50", "speed":"1.50", "state":"1"},
+        {"id":"2", "type":"spawn", "x":"250", "y":"496", "direction":"3", "visible":"0", "delay":"2.95", "speed":"1.10", "state":"1"},
+        {"id":"3", "type":"spawn", "x":"131", "y":"361", "direction":"1", "visible":"0", "delay":"2.60", "speed":"1.25", "state":"1"},
+        {"id":"4", "type":"spawn", "x":"250", "y":"361", "direction":"1", "visible":"0", "delay":"2.70", "speed":"1.30", "state":"1"},
+        {"id":"5", "type":"spawn", "x":"131", "y":"312", "direction":"3", "visible":"0", "delay":"2.50", "speed":"1.55", "state":"1"},
+        {"id":"6", "type":"spawn", "x":"131", "y":"193", "direction":"3", "visible":"0", "delay":"2.50", "speed":"1.40", "state":"1"},
+        {"id":"7", "type":"spawn", "x":"250", "y":"193", "direction":"3", "visible":"0", "delay":"2.20", "speed":"1.30", "state":"1"},
+        {"id":"8", "type":"spawn", "x":"191", "y":"078", "direction":"1", "visible":"0", "delay":"3.00", "speed":"3.30", "state":"1"},
+        {"id":"9", "type":"steam", "x":"040", "y":"056", "direction":"1", "visible":"1", "delay":"6.00", "speed":"3.50", "state":"0"}
+    ]
+}

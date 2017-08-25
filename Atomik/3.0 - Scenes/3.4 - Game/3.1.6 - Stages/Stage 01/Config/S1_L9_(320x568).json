@@ -1,0 +1,20 @@
+{
+    "title": "Stage Finale!",
+    "background": "BG_001",
+    "pipeline": "S1_L9",
+    "scoreboard": "CP_001",
+    "music": "DST Home",
+    "duration": "120",
+    "lives": "5",
+    "target": "90.00",
+    "sinkholes": [
+        {"id":"1", "x":"160", "y":"350"},
+        {"id":"2", "x":"87", "y":"230"},
+        {"id":"3", "x":"232", "y":"230"}
+    ],
+    "spawnpods": [
+        {"id":"1", "type":"spawn", "x":"87", "y":"488", "direction":"3", "visible":"0", "delay":"0.95", "speed":"1.00", "state":"1"},
+        {"id":"2", "type":"spawn", "x":"232", "y":"488", "direction":"3", "visible":"0", "delay":"0.85", "speed":"1.00", "state":"1"},
+        {"id":"3", "type":"spawn", "x":"160", "y":"90", "direction":"1", "visible":"0", "delay":"1.00", "speed":"1.75", "state":"1"}
+    ]
+}

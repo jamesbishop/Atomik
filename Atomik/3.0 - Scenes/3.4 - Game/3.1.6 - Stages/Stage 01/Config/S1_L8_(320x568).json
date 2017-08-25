@@ -1,0 +1,23 @@
+{
+    "title": "Bi-Direction",
+    "background": "BG_001",
+    "pipeline": "S1_L8",
+    "scoreboard": "CP_001",
+    "music": "DST Echorex",
+    "duration": "60",
+    "lives": "5",
+    "target": "95.00",
+    "sinkholes": [
+        {"id":"1", "x":"68", "y":"320"},
+        {"id":"2", "x":"160", "y":"320"},
+        {"id":"3", "x":"254", "y":"320"}
+    ],
+    "spawnpods": [
+        {"id":"1", "type":"spawn", "x":"68", "y":"495", "direction":"3", "visible":"0", "delay":"3.50", "speed":"1.0", "state":"1"},
+        {"id":"2", "type":"spawn", "x":"160", "y":"495", "direction":"3", "visible":"0", "delay":"2.50", "speed":"1.0", "state":"1"},
+        {"id":"3", "type":"spawn", "x":"254", "y":"495", "direction":"3", "visible":"0", "delay":"2.00", "speed":"1.0", "state":"1"},
+        {"id":"4", "type":"spawn", "x":"68", "y":"118", "direction":"1", "visible":"0", "delay":"2.50", "speed":"1.0", "state":"1"},
+        {"id":"5", "type":"spawn", "x":"160", "y":"118", "direction":"1", "visible":"0", "delay":"2.00", "speed":"1.0", "state":"1"},
+        {"id":"6", "type":"spawn", "x":"254", "y":"118", "direction":"1", "visible":"0", "delay":"2.25", "speed":"1.0", "state":"1"}
+    ]
+}

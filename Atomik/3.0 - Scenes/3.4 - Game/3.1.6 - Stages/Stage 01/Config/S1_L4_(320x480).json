@@ -1,0 +1,21 @@
+{
+    "title": "Stacked Up!",
+    "background": "BG_001",
+    "pipeline": "S1_L4",
+    "scoreboard": "CP_001",
+    "music": "DST Electro Rock",
+    "duration": "45",
+    "lives": "5",
+    "target": "90.00",
+    "sinkholes": [
+        {"id":"1", "x":"50", "y":"266"},
+        {"id":"2", "x":"160", "y":"266"},
+        {"id":"3", "x":"270", "y":"266"},
+        {"id":"4", "x":"105", "y":"156"},
+        {"id":"5", "x":"215", "y":"156"}
+    ],
+    "spawnpods": [
+        {"id":"1", "type":"spawn", "x":"87", "y":"444", "direction":"3", "visible":"0", "delay":"0.90", "speed":"3.00", "state":"1"},
+        {"id":"2", "type":"spawn", "x":"231", "y":"444", "direction":"3", "visible":"0", "delay":"1.05", "speed":"3.15", "state":"1"}
+    ]
+}

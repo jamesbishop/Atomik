@@ -1,0 +1,17 @@
+{
+    "menu-title": "Game Upgrades!",
+    "menu-font": "ThisIsMyFont",
+    "menu-axis-x": "160",
+    "manu-axis-y": "500",
+    "icon-title": "Menu_Title",
+    "icon-title-y": "500",
+    "buttons": [
+        {
+            "id": "ATOMIK01_S234",
+            "w": "256",
+            "h": "64",
+            "x": "160",
+            "y": "450"
+        }
+    ]
+}

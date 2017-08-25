@@ -1,0 +1,21 @@
+{
+    "title": "Spread Them!",
+    "background": "BG_001",
+    "pipeline": "S1_L5",
+    "scoreboard": "CP_001",
+    "music": "DST Cyber Ops",
+    "duration": "30",
+    "lives": "5",
+    "target": "90.00",
+    "sinkholes": [
+        {"id":"1", "x":"50", "y":"380"},
+        {"id":"2", "x":"280", "y":"105"},
+        {"id":"3", "x":"173", "y":"170"},
+        {"id":"4", "x":"68", "y":"165"},
+        {"id":"5", "x":"217", "y":"294"}
+    ],
+    "spawnpods": [
+        {"id":"1", "type":"spawn", "x":"87", "y":"488", "direction":"3", "visible":"0", "delay":"0.85", "speed":"2.85", "state":"1"},
+        {"id":"2", "type":"spawn", "x":"231", "y":"488", "direction":"3", "visible":"0", "delay":"1.00", "speed":"2.40", "state":"1"}
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "scene-title": "Challenge_Title",
+    "scene-image": "Challenge_Scene",
+    "scene-music": "Menu_Scene.mp3",
+    "scene-title-x": "160",
+    "scene-title-y": "455",
+    "buttons": [
+        {
+            "id": "Button_Next",
+            "x": "160",
+            "y": "120",
+            "w": "64",
+            "h": "64"
+        }
+    ]
+}

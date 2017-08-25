@@ -1,0 +1,12 @@
+{
+    "molecule-width": "50",
+    "molecule-height": "50",
+    "minicule-width": "32",
+    "minicule-height": "32",
+    "sinkhole-width": "64",
+    "sinkhole-height": "64",
+    "powerup-width": "128",
+    "powerup-height": "32",
+    "explosion-width": "256",
+    "explosion-height": "256",
+}

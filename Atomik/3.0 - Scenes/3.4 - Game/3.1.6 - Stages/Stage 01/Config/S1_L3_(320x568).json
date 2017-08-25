@@ -1,0 +1,20 @@
+{
+    "title": "Double Up!",
+    "background": "BG_001",
+    "pipeline": "S1_L3",
+    "scoreboard": "CP_001",
+    "music": "DST Collidescope",
+    "duration": "45",
+    "lives": "5",
+    "target": "90.00",
+    "sinkholes": [
+        {"id":"1", "x":"160", "y":"440"},
+        {"id":"2", "x":"160", "y":"340"},
+        {"id":"3", "x":"160", "y":"240"},
+        {"id":"4", "x":"160", "y":"140"}
+    ],
+    "spawnpods": [
+        {"id":"1", "type":"spawn", "x":"87", "y":"488", "direction":"3", "visible":"0", "delay":"1.30", "speed":"3.0", "state":"1"},
+        {"id":"2", "type":"spawn", "x":"231", "y":"488", "direction":"3", "visible":"0", "delay":"1.50", "speed":"3.5", "state":"1"}
+    ]
+}

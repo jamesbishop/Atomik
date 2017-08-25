@@ -1,0 +1,40 @@
+{
+    "scene-title": "Audio_Title",
+    "scene-image": "Menu_Scene",
+    "scene-music": "Menu_Scene.mp3",
+    "scene-title-x": "160",
+    "scene-title-y": "500",
+    "sliders": [
+        {
+            "id": "Slider_Music",
+            "x": "79",
+            "y": "310",
+            "w": "128",
+            "h": "300",
+            "min": "44",
+            "max": "260",
+            "header_y": "455.0",
+            "volume_y": "185.0"
+        },
+        {
+            "id": "Slider_Effects",
+            "x": "241",
+            "y": "310",
+            "w": "128",
+            "h": "300",
+            "min": "44",
+            "max": "260",
+            "header_y": "455.0",
+            "volume_y": "185.0"
+       }
+    ],
+    "buttons": [
+        {
+            "id": "Button_Home",
+            "x": "160",
+            "y": "120",
+            "w": "64",
+            "h": "64"
+        }
+    ]
+}

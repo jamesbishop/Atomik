@@ -1,0 +1,24 @@
+{
+    "title": "Symmetry",
+    "background": "BG_001",
+    "pipeline": "S3_L6",
+    "scoreboard": "CP_001",
+    "music": "DST Electro Rock",
+    "duration": "60",
+    "lives": "5",
+    "target": "90.00",
+    "sinkholes": [
+        {"id":"1", "x":"050", "y":"277"},
+        {"id":"2", "x":"159", "y":"277"},
+        {"id":"3", "x":"268", "y":"277"}
+    ],
+    "spawnpods": [
+        {"id":"1", "type":"spawn", "x":"050", "y":"370", "direction":"3", "visible":"0", "delay":"1.40", "speed":"1.30", "state":"1"},
+        {"id":"2", "type":"spawn", "x":"159", "y":"390", "direction":"3", "visible":"0", "delay":"1.55", "speed":"1.40", "state":"1"},
+        {"id":"3", "type":"spawn", "x":"268", "y":"370", "direction":"3", "visible":"0", "delay":"1.30", "speed":"1.30", "state":"1"},
+        {"id":"4", "type":"spawn", "x":"050", "y":"183", "direction":"1", "visible":"0", "delay":"1.90", "speed":"1.30", "state":"1"},
+        {"id":"5", "type":"spawn", "x":"159", "y":"163", "direction":"1", "visible":"0", "delay":"1.45", "speed":"1.40", "state":"1"},
+        {"id":"6", "type":"spawn", "x":"268", "y":"183", "direction":"1", "visible":"0", "delay":"1.20", "speed":"1.30", "state":"1"},
+        {"id":"7", "type":"steam", "x":"290", "y":"065", "direction":"1", "visible":"1", "delay":"7.50", "speed":"3.00", "state":"0"}
+    ]
+}

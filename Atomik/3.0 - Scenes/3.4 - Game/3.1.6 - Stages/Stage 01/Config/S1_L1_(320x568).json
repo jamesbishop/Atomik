@@ -1,0 +1,19 @@
+{
+    "title": "Induction",
+    "background": "BG_001",
+    "pipeline": "S1_L1",
+    "scoreboard": "CP_001",
+    "music": "DST Home",
+    "duration": "30",
+    "lives": "5",
+    "target": "90.00",
+    "sinkholes": [
+        {"id":"1", "x":"80", "y":"370"},
+        {"id":"2", "x":"240", "y":"370"},
+        {"id":"3", "x":"80", "y":"210"},
+        {"id":"4", "x":"240", "y":"210"}
+    ],
+    "spawnpods": [
+        {"id":"1", "type":"spawn", "x":"160", "y":"488", "direction":"3", "visible":"0", "delay":"0.5", "speed":"3.0", "state":"1"}
+    ]
+}

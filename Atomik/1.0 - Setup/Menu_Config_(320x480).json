@@ -1,0 +1,45 @@
+{
+    "scene-title": "Menu_Title",
+    "scene-image": "Menu_Scene",
+    "scene-music": "Menu_Scene.mp3",
+    "scene-title-x": "160",
+    "scene-title-y": "420",
+    "icon-title-y": "420",
+    "buttons": [
+        {
+            "id": "Play_Game",
+            "w": "256",
+            "h": "64",
+            "x": "160",
+            "y": "360"
+        },
+        {
+            "id": "Audio_FX",
+            "w": "256",
+            "h": "64",
+            "x": "160",
+            "y": "295"
+        },
+        {
+            "id": "How_2_Play",
+            "w": "256",
+            "h": "64",
+            "x": "160",
+            "y": "230"
+        },
+        {
+            "id": "Challenge",
+            "w": "256",
+            "h": "64",
+            "x": "160",
+            "y": "165"
+        },
+        {
+            "id": "Credits",
+            "w": "256",
+            "h": "64",
+            "x": "160",
+            "y": "100"
+        }
+    ]
+}

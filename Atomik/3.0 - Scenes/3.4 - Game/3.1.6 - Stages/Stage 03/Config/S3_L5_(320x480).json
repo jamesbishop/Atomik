@@ -1,0 +1,25 @@
+{
+    "title": "The Incubator",
+    "background": "BG_001",
+    "pipeline": "S3_L5",
+    "scoreboard": "CP_001",
+    "music": "What To Build",
+    "duration": "60",
+    "lives": "5",
+    "target": "90.00",
+    "sinkholes": [
+        {"id":"1", "x":"052", "y":"313"},
+        {"id":"2", "x":"268", "y":"278"},
+        {"id":"3", "x":"052", "y":"200"},
+        {"id":"4", "x":"116", "y":"130"},
+        {"id":"5", "x":"286", "y":"130"}
+    ],
+    "spawnpods": [
+        {"id":"1", "type":"spawn", "x":"053", "y":"388", "direction":"3", "visible":"0", "delay":"2.00", "speed":"2.00", "state":"1"},
+        {"id":"2", "type":"spawn", "x":"268", "y":"362", "direction":"3", "visible":"0", "delay":"2.00", "speed":"2.00", "state":"1"},
+        {"id":"3", "type":"spawn", "x":"114", "y":"263", "direction":"4", "visible":"0", "delay":"2.75", "speed":"0.70", "state":"1"},
+        {"id":"4", "type":"spawn", "x":"153", "y":"263", "direction":"2", "visible":"0", "delay":"2.05", "speed":"0.65", "state":"1"},
+        {"id":"5", "type":"spawn", "x":"268", "y":"194", "direction":"1", "visible":"0", "delay":"3.50", "speed":"1.50", "state":"1"},
+        {"id":"6", "type":"spawn", "x":"053", "y":"118", "direction":"1", "visible":"0", "delay":"3.00", "speed":"1.50", "state":"1"}
+    ]
+}

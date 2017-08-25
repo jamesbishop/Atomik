@@ -1,0 +1,50 @@
+{
+    "scene-title": "Challenge_Title",
+    "scene-image": "Challenge_Scene",
+    "scene-music": "Menu_Scene.mp3",
+    "scene-title-x": "160",
+    "scene-title-y": "455",
+    "details": [
+        {
+            "id": "title",
+            "x": "125",
+            "y": "419"
+        },
+        {
+            "id": "music",
+            "x": "125",
+            "y": "374"
+        },
+        {
+            "id": "timer",
+            "x": "125",
+            "y": "325"
+        },
+        {
+            "id": "target",
+            "x": "125",
+            "y": "280"
+        },
+        {
+            "id": "lives",
+            "x": "125",
+            "y": "230"
+        }
+    ],
+    "buttons": [
+        {
+            "id": "Button_Home",
+            "x": "110",
+            "y": "150",
+            "w": "64",
+            "h": "64"
+        },
+        {
+            "id": "Button_Next",
+            "x": "210",
+            "y": "150",
+            "w": "64",
+            "h": "64"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "title": "Collider",
+    "background": "BG_001",
+    "pipeline": "S2_L6",
+    "scoreboard": "CP_001",
+    "music": "DST Collidescope",
+    "duration": "60",
+    "lives": "5",
+    "target": "90.00",
+    "sinkholes": [
+        {"id":"1", "x":"048", "y":"300"},
+        {"id":"2", "x":"188", "y":"300"},
+        {"id":"3", "x":"048", "y":"217"},
+        {"id":"4", "x":"188", "y":"217"}
+    ],
+    "spawnpods": [
+        {"id":"1", "type":"spawn", "x":"048", "y":"396", "direction":"3", "visible":"0", "delay":"2.00", "speed":"1.00", "state":"1"},
+        {"id":"2", "type":"spawn", "x":"188", "y":"425", "direction":"3", "visible":"0", "delay":"2.00", "speed":"1.55", "state":"1"},
+        {"id":"3", "type":"spawn", "x":"304", "y":"300", "direction":"4", "visible":"0", "delay":"2.50", "speed":"1.00", "state":"1"},
+        {"id":"4", "type":"spawn", "x":"304", "y":"217", "direction":"4", "visible":"0", "delay":"2.50", "speed":"1.00", "state":"1"},
+        {"id":"5", "type":"spawn", "x":"188", "y":"092", "direction":"1", "visible":"0", "delay":"2.00", "speed":"1.00", "state":"1"},
+        {"id":"6", "type":"spawn", "x":"048", "y":"119", "direction":"1", "visible":"0", "delay":"2.00", "speed":"1.00", "state":"1"},
+        {"id":"7", "type":"steam", "x":"110", "y":"075", "direction":"1", "visible":"1", "delay":"9.00", "speed":"1.55", "state":"0"}
+    ]
+}

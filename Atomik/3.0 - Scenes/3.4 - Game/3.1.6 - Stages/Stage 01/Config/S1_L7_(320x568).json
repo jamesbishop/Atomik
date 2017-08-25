@@ -1,0 +1,23 @@
+{
+    "title": "Bonus Round!",
+    "background": "BG_001",
+    "pipeline": "S1_L7",
+    "scoreboard": "CP_001",
+    "music": "DST Collidescope",
+    "duration": "60",
+    "lives": "5",
+    "target": "90.00",
+    "sinkholes": [
+        {"id":"1", "x":"160", "y":"440"},
+        {"id":"2", "x":"160", "y":"350"},
+        {"id":"3", "x":"160", "y":"260"},
+        {"id":"4", "x":"160", "y":"170"}
+    ],
+    "spawnpods": [
+        {"id":"1", "type":"spawn", "x":"87", "y":"488", "direction":"3", "visible":"0", "delay":"1.50", "speed":"1.0", "state":"1"},
+        {"id":"2", "type":"spawn", "x":"232", "y":"488", "direction":"3", "visible":"0", "delay":"1.50", "speed":"1.0", "state":"1"},
+        {"id":"3", "type":"spawn", "x":"87", "y":"90", "direction":"1", "visible":"0", "delay":"1.50", "speed":"1.0", "state":"1"},
+        {"id":"4", "type":"spawn", "x":"232", "y":"90", "direction":"1", "visible":"0", "delay":"1.50", "speed":"1.0", "state":"1"},
+        {"id":"5", "type":"steam", "x":"160", "y":"522", "direction":"3", "visible":"1", "delay":"7.50", "speed":"2.0", "state":"0"}
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "header": {
+        "version": "%@",
+        "system": "%@",
+        "clock": "%@",
+        "device": "%@",
+        "token": "%@",
+        "data": {
+            "width": "%d",
+            "height": "%d",
+            "retina": "%d",
+            "lite": "%d",
+            "stage": "%d",
+            "level": "%d",
+            "molecules": "%d",
+            "success": "%d",
+            "failure": "%d",
+            "missed": "%d",
+            "collisions": "%d",
+            "duration": "%.2f",
+            "score": "%d",
+            "target": "%.2f",
+            "percentage": "%.2f",
+            "allowed": "%d",
+            "remaining": "%d",
+            "progress": "%d"
+        }
+    }
+}

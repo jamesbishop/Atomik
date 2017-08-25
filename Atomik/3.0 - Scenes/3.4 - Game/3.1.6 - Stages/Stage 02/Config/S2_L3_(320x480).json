@@ -1,0 +1,23 @@
+{
+    "title": "Crossfire!",
+    "background": "BG_001",
+    "pipeline": "S2_L3",
+    "scoreboard": "CP_001",
+    "music": "DST Echorex",
+    "duration": "60",
+    "lives": "3",
+    "target": "90.00",
+    "sinkholes": [
+        {"id":"1", "x":"159", "y":"439"},
+        {"id":"2", "x":"159", "y":"371"},
+        {"id":"3", "x":"159", "y":"303"},
+        {"id":"4", "x":"159", "y":"234"}
+    ],
+    "spawnpods": [
+        {"id":"1", "type":"spawn", "x":"000", "y":"439", "direction":"2", "visible":"0", "delay":"1.60", "speed":"1.30", "state":"1"},
+        {"id":"2", "type":"spawn", "x":"319", "y":"371", "direction":"4", "visible":"0", "delay":"1.60", "speed":"1.30", "state":"1"},
+        {"id":"3", "type":"spawn", "x":"000", "y":"303", "direction":"2", "visible":"0", "delay":"1.60", "speed":"1.30", "state":"1"},
+        {"id":"4", "type":"spawn", "x":"319", "y":"234", "direction":"4", "visible":"0", "delay":"1.60", "speed":"1.30", "state":"1"},
+        {"id":"5", "type":"spawn", "x":"159", "y":"109", "direction":"1", "visible":"0", "delay":"15.00", "speed":"3.00", "state":"1"}
+    ]
+}

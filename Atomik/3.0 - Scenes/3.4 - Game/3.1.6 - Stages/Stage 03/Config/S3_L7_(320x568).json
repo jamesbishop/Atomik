@@ -1,0 +1,26 @@
+{
+    "title": "Down Guns!",
+    "background": "BG_001",
+    "pipeline": "S3_L7",
+    "scoreboard": "CP_001",
+    "music": "DST Cyber Ops",
+    "duration": "60",
+    "lives": "5",
+    "target": "90.00",
+    "sinkholes": [
+        {"id":"1", "x":"050", "y":"224"},
+        {"id":"2", "x":"080", "y":"145"},
+        {"id":"3", "x":"159", "y":"145"},
+        {"id":"4", "x":"240", "y":"145"},
+        {"id":"5", "x":"270", "y":"224"}
+    ],
+    "spawnpods": [
+        {"id":"1", "type":"spawn", "x":"032", "y":"342", "direction":"3", "visible":"0", "delay":"1.40", "speed":"1.30", "state":"1"},
+        {"id":"2", "type":"spawn", "x":"096", "y":"465", "direction":"3", "visible":"0", "delay":"1.55", "speed":"1.40", "state":"1"},
+        {"id":"3", "type":"spawn", "x":"213", "y":"444", "direction":"3", "visible":"0", "delay":"1.30", "speed":"1.30", "state":"1"},
+        {"id":"4", "type":"spawn", "x":"282", "y":"370", "direction":"3", "visible":"0", "delay":"1.90", "speed":"1.30", "state":"1"},
+        {"id":"5", "type":"spawn", "x":"151", "y":"224", "direction":"4", "visible":"0", "delay":"1.45", "speed":"1.40", "state":"1"},
+        {"id":"6", "type":"spawn", "x":"167", "y":"224", "direction":"2", "visible":"0", "delay":"1.20", "speed":"1.30", "state":"1"},
+        {"id":"7", "type":"steam", "x":"030", "y":"488", "direction":"3", "visible":"1", "delay":"7.50", "speed":"3.00", "state":"0"}
+    ]
+}
